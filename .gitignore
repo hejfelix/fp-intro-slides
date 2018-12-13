@@ -22,8 +22,8 @@ _testmain.go
 *.exe
 bin/
 src/
-slides/
 main
 node_modules
 hacker-slides
 vendor/
+*.DS_Store*
